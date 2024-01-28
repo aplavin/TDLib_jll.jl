@@ -6,3 +6,12 @@ os = "macos"
     [[TDLib.download]]
     sha256 = "98604b719c7ff50f52f48618ffeedc1781af8c8a74bfec87d885a0855dab3c9f"
     url = "https://github.com/aplavin/TDLib_jll.jl/releases/download/TDLib-v1.8.24+0/TDLib.v1.8.24.aarch64-apple-darwin.tar.gz"
+[[TDLib]]
+arch = "x86_64"
+git-tree-sha1 = "93ad2bf88155bab77c527ddd9921d85a21bacacc"
+libc = "glibc"
+os = "linux"
+
+    [[TDLib.download]]
+    sha256 = "f3576cbd9b45c36091d7f371104376c36cec6daad0c02e4a9f5564872af99e56"
+    url = "https://github.com/aplavin/TDLib_jll.jl/releases/download/TDLib-v1.8.24+0/TDLib.v1.8.24.x86_64-linux-gnu.tar.gz"

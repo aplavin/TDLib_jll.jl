@@ -17,6 +17,7 @@ The tarballs for `TDLib_jll.jl` have been built from these sources:
 `TDLib_jll.jl` is available for the following platforms:
 
 * `macOS aarch64` (`aarch64-apple-darwin`)
+* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 
 ## Dependencies
 
