@@ -1,0 +1,17 @@
+name = "TDLib_jll"
+uuid = "6cfef11d-eb86-5696-bb50-1df673c3ffa1"
+version = "1.8.24+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+OpenSSL_jll = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+OpenSSL_jll = "1.1.10"
+Libdl = "1"
+Artifacts = "1"

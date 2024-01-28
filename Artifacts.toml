@@ -1,0 +1,8 @@
+[[TDLib]]
+arch = "aarch64"
+git-tree-sha1 = "2b55003570b872da5b9577045eff94fe3a916992"
+os = "macos"
+
+    [[TDLib.download]]
+    sha256 = "98604b719c7ff50f52f48618ffeedc1781af8c8a74bfec87d885a0855dab3c9f"
+    url = "https://github.com/aplavin/TDLib_jll.jl/releases/download/TDLib-v1.8.24+0/TDLib.v1.8.24.aarch64-apple-darwin.tar.gz"
